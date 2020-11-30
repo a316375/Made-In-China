@@ -8,8 +8,8 @@ android {
         applicationId "xyx.game.madeinchina"
         minSdkVersion 23
         targetSdkVersion 29
-        versionCode 3
-        versionName "3"
+        versionCode 6
+        versionName "testversion"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
